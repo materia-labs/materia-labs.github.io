@@ -1,0 +1,15 @@
+left_links:
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+right_links:
+  - name:
+    link: https://materia-labs.net
+    social_icon: Instagram
+    new_window: true
+  - name:
+    link: /feed.xml
+    social_icon: RSS
